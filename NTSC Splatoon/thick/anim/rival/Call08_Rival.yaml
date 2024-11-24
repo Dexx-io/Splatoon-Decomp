@@ -1,0 +1,20 @@
+Name: Call08_Rival
+Path: 
+Loop: false
+FrameCount: 165
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            88: M_Eyelid_Alb.1
+            89: M_Eyelid_Alb.2
+            90: M_Eyelid_Alb.3
+            94: M_Eyelid_Alb.2
+            95: M_Eyelid_Alb.1
+            96: M_Eyelid_Alb.0
+    ParamInfos: []

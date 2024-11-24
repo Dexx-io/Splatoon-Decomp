@@ -1,0 +1,38 @@
+Name: Win05_Rival
+Path: 
+Loop: true
+FrameCount: 570
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            51: M_Eyelid_Alb.1
+            52: M_Eyelid_Alb.2
+            53: M_Eyelid_Alb.3
+            58: M_Eyelid_Alb.2
+            59: M_Eyelid_Alb.1
+            60: M_Eyelid_Alb.0
+            174: M_Eyelid_Alb.1
+            175: M_Eyelid_Alb.2
+            176: M_Eyelid_Alb.3
+            181: M_Eyelid_Alb.2
+            182: M_Eyelid_Alb.1
+            183: M_Eyelid_Alb.0
+            301: M_Eyelid_Alb.1
+            302: M_Eyelid_Alb.2
+            303: M_Eyelid_Alb.3
+            308: M_Eyelid_Alb.2
+            309: M_Eyelid_Alb.1
+            310: M_Eyelid_Alb.0
+            468: M_Eyelid_Alb.1
+            469: M_Eyelid_Alb.2
+            470: M_Eyelid_Alb.3
+            475: M_Eyelid_Alb.2
+            476: M_Eyelid_Alb.1
+            477: M_Eyelid_Alb.0
+    ParamInfos: []

@@ -1,0 +1,17 @@
+Name: ToHumanStandby_Rival
+Path: 
+Loop: false
+FrameCount: 90
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            32: M_Eyelid_Alb.0
+            37: M_Eyelid_Alb.4
+            43: M_Eyelid_Alb.6
+            67: M_Eyelid_Alb.0
+    ParamInfos: []

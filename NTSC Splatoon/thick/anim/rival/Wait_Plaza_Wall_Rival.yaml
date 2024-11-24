@@ -1,0 +1,38 @@
+Name: Wait_Plaza_Wall_Rival
+Path: 
+Loop: true
+FrameCount: 720
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            95: M_Eyelid_Alb.1
+            96: M_Eyelid_Alb.2
+            97: M_Eyelid_Alb.3
+            104: M_Eyelid_Alb.2
+            105: M_Eyelid_Alb.1
+            106: M_Eyelid_Alb.0
+            208: M_Eyelid_Alb.1
+            209: M_Eyelid_Alb.2
+            210: M_Eyelid_Alb.3
+            216: M_Eyelid_Alb.2
+            217: M_Eyelid_Alb.1
+            218: M_Eyelid_Alb.0
+            401: M_Eyelid_Alb.1
+            402: M_Eyelid_Alb.2
+            403: M_Eyelid_Alb.3
+            408: M_Eyelid_Alb.2
+            409: M_Eyelid_Alb.1
+            410: M_Eyelid_Alb.0
+            544: M_Eyelid_Alb.1
+            545: M_Eyelid_Alb.2
+            546: M_Eyelid_Alb.3
+            551: M_Eyelid_Alb.2
+            552: M_Eyelid_Alb.1
+            553: M_Eyelid_Alb.0
+    ParamInfos: []

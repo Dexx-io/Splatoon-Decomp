@@ -1,0 +1,29 @@
+Name: WalkDamage_Nrml_Rival
+Path: 
+Loop: true
+FrameCount: 240
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.4
+            96: M_Eyelid_Alb.6
+            142: M_Eyelid_Alb.4
+            175: M_Eyelid_Alb.5
+            204: M_Eyelid_Alb.6
+      - Name: _t0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Trm.1
+            96: M_Eyelid_Trm.1
+            142: M_Eyelid_Trm.1
+            175: M_Eyelid_Trm.2
+            204: M_Eyelid_Trm.1
+            240: M_Eyelid_Trm.1
+    ParamInfos: []

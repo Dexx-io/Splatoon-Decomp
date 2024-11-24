@@ -1,0 +1,44 @@
+Name: Wait_Shop_Rllr_Change_Rival
+Path: 
+Loop: false
+FrameCount: 420
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            1: M_Eyelid_Alb.1
+            2: M_Eyelid_Alb.2
+            3: M_Eyelid_Alb.3
+            13: M_Eyelid_Alb.2
+            14: M_Eyelid_Alb.1
+            15: M_Eyelid_Alb.0
+            97: M_Eyelid_Alb.1
+            98: M_Eyelid_Alb.2
+            99: M_Eyelid_Alb.3
+            108: M_Eyelid_Alb.2
+            109: M_Eyelid_Alb.1
+            110: M_Eyelid_Alb.0
+            202: M_Eyelid_Alb.1
+            203: M_Eyelid_Alb.2
+            204: M_Eyelid_Alb.3
+            213: M_Eyelid_Alb.2
+            214: M_Eyelid_Alb.1
+            215: M_Eyelid_Alb.0
+            266: M_Eyelid_Alb.1
+            267: M_Eyelid_Alb.2
+            268: M_Eyelid_Alb.3
+            277: M_Eyelid_Alb.2
+            278: M_Eyelid_Alb.1
+            279: M_Eyelid_Alb.0
+            337: M_Eyelid_Alb.1
+            338: M_Eyelid_Alb.2
+            339: M_Eyelid_Alb.3
+            348: M_Eyelid_Alb.2
+            349: M_Eyelid_Alb.1
+            350: M_Eyelid_Alb.0
+    ParamInfos: []

@@ -1,0 +1,32 @@
+Name: WaitHold_Nrml_LookAround_Rival
+Path: 
+Loop: false
+FrameCount: 330
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            1: M_Eyelid_Alb.1
+            2: M_Eyelid_Alb.2
+            3: M_Eyelid_Alb.3
+            8: M_Eyelid_Alb.2
+            9: M_Eyelid_Alb.1
+            10: M_Eyelid_Alb.0
+            106: M_Eyelid_Alb.1
+            107: M_Eyelid_Alb.2
+            108: M_Eyelid_Alb.3
+            113: M_Eyelid_Alb.2
+            114: M_Eyelid_Alb.1
+            115: M_Eyelid_Alb.0
+            274: M_Eyelid_Alb.1
+            275: M_Eyelid_Alb.2
+            276: M_Eyelid_Alb.3
+            281: M_Eyelid_Alb.2
+            282: M_Eyelid_Alb.1
+            283: M_Eyelid_Alb.0
+    ParamInfos: []

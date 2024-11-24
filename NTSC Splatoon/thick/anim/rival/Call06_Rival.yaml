@@ -1,0 +1,16 @@
+Name: Call06_Rival
+Path: 
+Loop: false
+FrameCount: 120
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.6
+            105: M_Eyelid_Alb.4
+            106: M_Eyelid_Alb.0
+    ParamInfos: []

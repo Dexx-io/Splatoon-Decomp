@@ -1,0 +1,18 @@
+Name: Player01_Hlf_auto
+Path: 
+Loop: true
+FrameCount: 300
+MaterialAnimConfigs:
+  - Name: M_Body
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: tex_mtx1
+        IsConstant: true
+        Constants:
+          - Offset: Mode
+            Value: 0.0
+        CurveData:
+          - KeyFrames:
+              0: 0.0
+              300: -1.0
+            Offset: Translate Y

@@ -1,0 +1,44 @@
+Name: Wait_Plaza_TalkB_Rival
+Path: 
+Loop: true
+FrameCount: 570
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            65: M_Eyelid_Alb.1
+            66: M_Eyelid_Alb.2
+            67: M_Eyelid_Alb.3
+            73: M_Eyelid_Alb.2
+            74: M_Eyelid_Alb.1
+            75: M_Eyelid_Alb.0
+            208: M_Eyelid_Alb.1
+            209: M_Eyelid_Alb.2
+            210: M_Eyelid_Alb.3
+            216: M_Eyelid_Alb.2
+            217: M_Eyelid_Alb.1
+            218: M_Eyelid_Alb.0
+            268: M_Eyelid_Alb.1
+            269: M_Eyelid_Alb.2
+            270: M_Eyelid_Alb.6
+            329: M_Eyelid_Alb.2
+            330: M_Eyelid_Alb.1
+            331: M_Eyelid_Alb.0
+            399: M_Eyelid_Alb.1
+            400: M_Eyelid_Alb.2
+            401: M_Eyelid_Alb.3
+            407: M_Eyelid_Alb.2
+            408: M_Eyelid_Alb.1
+            409: M_Eyelid_Alb.0
+            536: M_Eyelid_Alb.1
+            537: M_Eyelid_Alb.2
+            538: M_Eyelid_Alb.3
+            544: M_Eyelid_Alb.2
+            545: M_Eyelid_Alb.1
+            546: M_Eyelid_Alb.0
+    ParamInfos: []

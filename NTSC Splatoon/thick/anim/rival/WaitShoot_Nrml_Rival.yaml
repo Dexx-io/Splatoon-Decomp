@@ -1,0 +1,16 @@
+Name: WaitShoot_Nrml_Rival
+Path: 
+Loop: true
+FrameCount: 44
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+      - Name: _t0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+    ParamInfos: []

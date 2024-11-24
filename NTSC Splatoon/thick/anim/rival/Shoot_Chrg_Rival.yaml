@@ -1,0 +1,16 @@
+Name: Shoot_Chrg_Rival
+Path: 
+Loop: false
+FrameCount: 15
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+      - Name: _t0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+    ParamInfos: []

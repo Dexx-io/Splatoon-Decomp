@@ -1,0 +1,50 @@
+Name: Wait_Plaza_Chair_Rival
+Path: 
+Loop: true
+FrameCount: 720
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            76: M_Eyelid_Alb.1
+            77: M_Eyelid_Alb.2
+            78: M_Eyelid_Alb.3
+            84: M_Eyelid_Alb.2
+            85: M_Eyelid_Alb.1
+            86: M_Eyelid_Alb.0
+            232: M_Eyelid_Alb.1
+            233: M_Eyelid_Alb.2
+            234: M_Eyelid_Alb.6
+            380: M_Eyelid_Alb.2
+            381: M_Eyelid_Alb.1
+            382: M_Eyelid_Alb.0
+            436: M_Eyelid_Alb.1
+            437: M_Eyelid_Alb.2
+            438: M_Eyelid_Alb.3
+            442: M_Eyelid_Alb.2
+            443: M_Eyelid_Alb.1
+            444: M_Eyelid_Alb.0
+            493: M_Eyelid_Alb.1
+            494: M_Eyelid_Alb.2
+            495: M_Eyelid_Alb.3
+            501: M_Eyelid_Alb.2
+            502: M_Eyelid_Alb.1
+            503: M_Eyelid_Alb.0
+            510: M_Eyelid_Alb.1
+            511: M_Eyelid_Alb.2
+            512: M_Eyelid_Alb.3
+            519: M_Eyelid_Alb.2
+            520: M_Eyelid_Alb.1
+            521: M_Eyelid_Alb.0
+            660: M_Eyelid_Alb.1
+            661: M_Eyelid_Alb.2
+            662: M_Eyelid_Alb.3
+            668: M_Eyelid_Alb.2
+            669: M_Eyelid_Alb.1
+            670: M_Eyelid_Alb.0
+    ParamInfos: []

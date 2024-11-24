@@ -1,0 +1,22 @@
+Name: Lose00_Loop_Rival
+Path: 
+Loop: true
+FrameCount: 255
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.1
+            8: M_Eyelid_Alb.2
+            9: M_Eyelid_Alb.3
+            95: M_Eyelid_Alb.2
+            96: M_Eyelid_Alb.1
+            164: M_Eyelid_Alb.2
+            165: M_Eyelid_Alb.3
+            240: M_Eyelid_Alb.2
+            241: M_Eyelid_Alb.1
+    ParamInfos: []

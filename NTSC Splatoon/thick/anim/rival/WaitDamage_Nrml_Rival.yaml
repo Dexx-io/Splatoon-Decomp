@@ -1,0 +1,24 @@
+Name: WaitDamage_Nrml_Rival
+Path: 
+Loop: true
+FrameCount: 360
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            4: M_Eyelid_Alb.1
+            5: M_Eyelid_Alb.2
+            6: M_Eyelid_Alb.6
+            86: M_Eyelid_Alb.1
+            87: M_Eyelid_Alb.0
+            217: M_Eyelid_Alb.2
+            218: M_Eyelid_Alb.6
+            286: M_Eyelid_Alb.2
+            287: M_Eyelid_Alb.1
+            288: M_Eyelid_Alb.0
+    ParamInfos: []

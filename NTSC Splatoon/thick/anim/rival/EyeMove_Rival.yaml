@@ -1,0 +1,38 @@
+Name: EyeMove_Rival
+Path: 
+Loop: true
+FrameCount: 360
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            3: M_Eyelid_Alb.1
+            5: M_Eyelid_Alb.2
+            7: M_Eyelid_Alb.3
+            14: M_Eyelid_Alb.2
+            16: M_Eyelid_Alb.1
+            18: M_Eyelid_Alb.0
+            195: M_Eyelid_Alb.1
+            197: M_Eyelid_Alb.2
+            199: M_Eyelid_Alb.3
+            206: M_Eyelid_Alb.2
+            208: M_Eyelid_Alb.1
+            210: M_Eyelid_Alb.0
+            214: M_Eyelid_Alb.1
+            216: M_Eyelid_Alb.2
+            218: M_Eyelid_Alb.3
+            225: M_Eyelid_Alb.2
+            227: M_Eyelid_Alb.1
+            229: M_Eyelid_Alb.0
+            284: M_Eyelid_Alb.1
+            286: M_Eyelid_Alb.2
+            288: M_Eyelid_Alb.3
+            295: M_Eyelid_Alb.2
+            297: M_Eyelid_Alb.1
+            299: M_Eyelid_Alb.0
+    ParamInfos: []

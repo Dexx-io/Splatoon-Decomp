@@ -1,0 +1,32 @@
+Name: WaitHold_Nrml_Relax_Rival
+Path: 
+Loop: false
+FrameCount: 460
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            60: M_Eyelid_Alb.1
+            61: M_Eyelid_Alb.2
+            62: M_Eyelid_Alb.3
+            66: M_Eyelid_Alb.2
+            67: M_Eyelid_Alb.1
+            68: M_Eyelid_Alb.0
+            203: M_Eyelid_Alb.1
+            204: M_Eyelid_Alb.2
+            205: M_Eyelid_Alb.3
+            209: M_Eyelid_Alb.2
+            210: M_Eyelid_Alb.1
+            211: M_Eyelid_Alb.0
+            348: M_Eyelid_Alb.1
+            349: M_Eyelid_Alb.2
+            350: M_Eyelid_Alb.3
+            354: M_Eyelid_Alb.2
+            355: M_Eyelid_Alb.1
+            356: M_Eyelid_Alb.0
+    ParamInfos: []

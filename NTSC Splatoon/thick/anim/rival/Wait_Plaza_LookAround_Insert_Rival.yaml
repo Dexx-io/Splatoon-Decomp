@@ -1,0 +1,20 @@
+Name: Wait_Plaza_LookAround_Insert_Rival
+Path: 
+Loop: false
+FrameCount: 300
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            243: M_Eyelid_Alb.1
+            244: M_Eyelid_Alb.2
+            245: M_Eyelid_Alb.3
+            252: M_Eyelid_Alb.2
+            253: M_Eyelid_Alb.1
+            254: M_Eyelid_Alb.0
+    ParamInfos: []

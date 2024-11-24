@@ -1,0 +1,12 @@
+Name: Wait_Plaza_Dance_Rival
+Path: 
+Loop: true
+FrameCount: 440
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+    ParamInfos: []

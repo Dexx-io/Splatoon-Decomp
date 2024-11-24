@@ -1,0 +1,12 @@
+Name: Walk_Plaza_LookAround_Rival
+Path: 
+Loop: true
+FrameCount: 120
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+    ParamInfos: []

@@ -1,0 +1,12 @@
+Name: WaitHold_Nrml_Sp_Rival
+Path: 
+Loop: true
+FrameCount: 45
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+    ParamInfos: []

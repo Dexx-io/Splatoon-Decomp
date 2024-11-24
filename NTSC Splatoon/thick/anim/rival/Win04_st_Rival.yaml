@@ -1,0 +1,28 @@
+Name: Win04_st_Rival
+Path: 
+Loop: false
+FrameCount: 219
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            19: M_Eyelid_Alb.1
+            20: M_Eyelid_Alb.2
+            21: M_Eyelid_Alb.3
+            26: M_Eyelid_Alb.2
+            27: M_Eyelid_Alb.1
+            28: M_Eyelid_Alb.0
+            85: M_Eyelid_Alb.5
+            124: M_Eyelid_Alb.0
+            161: M_Eyelid_Alb.1
+            162: M_Eyelid_Alb.2
+            163: M_Eyelid_Alb.3
+            168: M_Eyelid_Alb.2
+            169: M_Eyelid_Alb.1
+            170: M_Eyelid_Alb.0
+    ParamInfos: []

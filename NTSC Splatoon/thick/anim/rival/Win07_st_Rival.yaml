@@ -1,0 +1,12 @@
+Name: Win07_st_Rival
+Path: 
+Loop: false
+FrameCount: 193
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData: null
+    ParamInfos: []

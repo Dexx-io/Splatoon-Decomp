@@ -1,0 +1,38 @@
+Name: Wait_Shop_Chrg_Rival
+Path: 
+Loop: true
+FrameCount: 720
+MaterialAnimConfigs:
+  - Name: M_Eyelid
+    TexturePatternInfos:
+      - Name: _a0
+        IsConstant: false
+        ConstantValue: null
+        CurveData:
+          KeyFrames:
+            0: M_Eyelid_Alb.0
+            101: M_Eyelid_Alb.1
+            102: M_Eyelid_Alb.2
+            103: M_Eyelid_Alb.3
+            107: M_Eyelid_Alb.2
+            108: M_Eyelid_Alb.1
+            109: M_Eyelid_Alb.0
+            204: M_Eyelid_Alb.1
+            205: M_Eyelid_Alb.2
+            206: M_Eyelid_Alb.3
+            212: M_Eyelid_Alb.2
+            213: M_Eyelid_Alb.1
+            214: M_Eyelid_Alb.0
+            372: M_Eyelid_Alb.1
+            373: M_Eyelid_Alb.2
+            374: M_Eyelid_Alb.3
+            380: M_Eyelid_Alb.2
+            381: M_Eyelid_Alb.1
+            382: M_Eyelid_Alb.0
+            595: M_Eyelid_Alb.1
+            596: M_Eyelid_Alb.2
+            597: M_Eyelid_Alb.3
+            601: M_Eyelid_Alb.2
+            602: M_Eyelid_Alb.1
+            603: M_Eyelid_Alb.0
+    ParamInfos: []

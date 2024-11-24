@@ -1,0 +1,6 @@
+10176900
+LonNam=Splatoon
+PubNam=Nintendo
+RegLok=Yes
+RegNum=12
+RegNo=13

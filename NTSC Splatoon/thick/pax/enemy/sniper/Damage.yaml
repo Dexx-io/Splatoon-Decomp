@@ -1,0 +1,16 @@
+Name: Damage
+Path: 
+Loop: true
+FrameCount: 100
+MaterialAnimConfigs:
+  - Name: M_body
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: two_color_complement_paint_intensity
+        IsConstant: false
+        Constants: null
+        CurveData:
+          - KeyFrames:
+              0: 0.0
+              100: 1.0
+            Offset: 0

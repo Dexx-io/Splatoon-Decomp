@@ -1,0 +1,18 @@
+Name: Shot
+Path: 
+Loop: false
+FrameCount: 31
+MaterialAnimConfigs:
+  - Name: M_Eye
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: tex_mtx0
+        IsConstant: true
+        Constants:
+          - Offset: Mode
+            Value: 1.40129846E-45
+          - Offset: Translate X
+            Value: 0.0
+          - Offset: Translate Y
+            Value: 0.0
+        CurveData: []

@@ -1,0 +1,34 @@
+Name: Wait
+Path: 
+Loop: true
+FrameCount: 80
+MaterialAnimConfigs:
+  - Name: M_CleanerEyes
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: albedo_tex_color
+        IsConstant: true
+        Constants:
+          - Offset: 0
+            Value: 0.0
+          - Offset: 4
+            Value: 0.239999995
+          - Offset: 8
+            Value: 0.129999995
+        CurveData: []
+      - Name: emission_color
+        IsConstant: true
+        Constants:
+          - Offset: 0
+            Value: 0.0
+          - Offset: 4
+            Value: 0.239999995
+          - Offset: 8
+            Value: 0.129999995
+        CurveData: []
+      - Name: albedo_emission_power
+        IsConstant: true
+        Constants:
+          - Offset: 0
+            Value: 0.129999995
+        CurveData: []

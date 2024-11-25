@@ -1,0 +1,30 @@
+Name: WaitSt
+Path: 
+Loop: false
+FrameCount: 30
+MaterialAnimConfigs:
+  - Name: M_CleanerEyes
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: albedo_tex_color
+        IsConstant: false
+        Constants: null
+        CurveData:
+          - KeyFrames:
+              0: 1.0
+              4: 1.0
+              10: 0.550000012
+              30: 0.0
+            Offset: 0
+          - KeyFrames:
+              0: 0.150000006
+              4: 0.150000006
+              10: 1.0
+              30: 0.239999995
+            Offset: 4
+          - KeyFrames:
+              0: 0.0
+              4: 0.0
+              10: 0.0
+              30: 0.129999995
+            Offset: 8

@@ -1,0 +1,28 @@
+Name: Move
+Path: 
+Loop: true
+FrameCount: 60
+MaterialAnimConfigs:
+  - Name: M_CleanerEyes
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: albedo_tex_color
+        IsConstant: true
+        Constants:
+          - Offset: 0
+            Value: 1.0
+          - Offset: 4
+            Value: 0.150000006
+          - Offset: 8
+            Value: 0.0
+        CurveData: []
+      - Name: emission_color
+        IsConstant: true
+        Constants:
+          - Offset: 0
+            Value: 1.0
+          - Offset: 4
+            Value: 0.150000006
+          - Offset: 8
+            Value: 0.0
+        CurveData: []

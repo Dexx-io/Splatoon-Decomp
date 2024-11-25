@@ -1,0 +1,46 @@
+Name: Bullet
+Path: 
+Loop: true
+FrameCount: 12
+MaterialAnimConfigs:
+  - Name: M_CleanerEyes
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: albedo_tex_color
+        IsConstant: false
+        Constants: null
+        CurveData:
+          - KeyFrames:
+              0: 1.0
+              6: 0.0
+              12: 1.0
+            Offset: 0
+          - KeyFrames:
+              0: 0.150000006
+              6: 0.239999995
+              12: 0.150000006
+            Offset: 4
+          - KeyFrames:
+              0: 0.0
+              6: 0.129999995
+              12: 0.0
+            Offset: 8
+      - Name: emission_color
+        IsConstant: false
+        Constants: null
+        CurveData:
+          - KeyFrames:
+              0: 1.0
+              6: 0.0
+              12: 1.0
+            Offset: 0
+          - KeyFrames:
+              0: 0.150000006
+              6: 0.239999995
+              12: 0.150000006
+            Offset: 4
+          - KeyFrames:
+              0: 0.0
+              6: 0.129999995
+              12: 0.0
+            Offset: 8

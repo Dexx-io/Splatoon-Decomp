@@ -1,0 +1,41 @@
+Name: Lost
+Path: 
+Loop: false
+FrameCount: 225
+MaterialAnimConfigs:
+  - Name: M_Eye
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: tex_mtx0
+        IsConstant: true
+        Constants:
+          - Offset: Mode
+            Value: 1.40129846E-45
+        CurveData:
+          - KeyFrames:
+              0: 0.0
+              5: 0.0
+              8: 0.0801181719
+              11: 0.160236344
+              74: 0.160236344
+              78: 0.0584646091
+              83: -0.160236344
+              92: -0.160236344
+              156: -0.160236344
+              160: -0.0584646091
+              165: 0.160236344
+              174: 0.160236344
+              209: 0.160236344
+              212: 0.0801181719
+              215: 0.0
+              225: 0.0
+            Offset: Translate X
+          - KeyFrames:
+              0: -1.60560012E-06
+              8: -0.0316602774
+              17: -0.0633189529
+              209: -0.0633189529
+              213: -0.00989324227
+              220: -1.60560012E-06
+              225: -1.60560012E-06
+            Offset: Translate Y

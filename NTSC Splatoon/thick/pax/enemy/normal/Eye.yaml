@@ -1,0 +1,25 @@
+Name: Eye
+Path: 
+Loop: true
+FrameCount: 360
+MaterialAnimConfigs:
+  - Name: M_Eye
+    TexturePatternInfos: []
+    ParamInfos:
+      - Name: tex_mtx0
+        IsConstant: true
+        Constants:
+          - Offset: Mode
+            Value: 1.40129846E-45
+        CurveData:
+          - KeyFrames:
+              0: 0.160000056
+              205: -0.143196195
+              360: 0.160000056
+            Offset: Translate X
+          - KeyFrames:
+              0: -6.14486635E-06
+              128: -0.12323004
+              298: 0.139172971
+              360: -6.14486635E-06
+            Offset: Translate Y
